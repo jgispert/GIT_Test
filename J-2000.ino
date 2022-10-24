@@ -1,3 +1,6 @@
+// Proves de GIT
+// No serveix pel codi
+
 #include <SoftwareSerial.h>
 
 SoftwareSerial J2000 (10,11); // RX,TX
@@ -21,5 +24,3 @@ void loop ()
   //J2000.print(0x0C);
   //delay (5000);
 }
-
-
