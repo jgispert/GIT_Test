@@ -6,3 +6,5 @@ Modificació de proves
 Més modificacions
 
 Feta a GITHub
+
+Cambio de rama
