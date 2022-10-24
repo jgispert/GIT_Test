@@ -1,6 +1,7 @@
 // Proves de GIT
 // No serveix pel codi
 
+//
 #include <SoftwareSerial.h>
 
 SoftwareSerial J2000 (10,11); // RX,TX
